@@ -8,15 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-About
-=====
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
   
 Education
-=====
+------
 * B.S. in Computer Engineering, University of Wisconsin-Madison, 2020
   * GPA: 3.939 ([Transcript](https://sedara26.github.io/files/UW_Official_Transcript.pdf))
   * Relevant Coursework: 
@@ -25,7 +19,7 @@ Education
   * Relevant Coursework: 
 
 Work experience
-=====
+------
 * Feb 2021 - Jun 2022: SOC Design Verification Engineer, Apple
   * Collaborated with the design team on attribute design for internal chipsets.
   * Verified attributes through UVM test benches per chipset and utilized internal software for code and functional coverage.
@@ -42,10 +36,10 @@ Work experience
 * May 2018 - Aug 2018: Interim Engineering Intern, Qualcomm
   * Worked with the Camera Test Team for improving test conditions by writing multiple API’s for controlling serial devices, Phillips Hue Lights, and other internal devices.
   * Wrote unit tests for a Video Quality Post Processor.
-  * Worked on an Object Classification Model using a fine-tuned vgg16 model.
+  * Worked on creating an Object Classification Model using a fine-tuned vgg16 model.
   
 Skills
-=====
+------
 * Programming Languages:
   * Proficient: Java, C/C++, Verilog, SystemVerilog
   * Familiar: Python, Go, Matlab
@@ -53,8 +47,15 @@ Skills
   * Data Science: Pytorch, Keras, Numpy
   * Development: Git, ModelSim, Vim, Quartus, IntelliJ
   * Academic: Zotero
-* Skill 3
 
 Projects
-=====
-* Programming Languages:
+------
+* Autonomous Image-Based Agent for a Real-time Hockey Game
+  * Dec 2021
+  * Andre Duong, **Siddhartha Edara**, Jennifer Hsu, Henry Zhong
+* An Analysis of Autonomous Vehicle Security Attacks and Effective Countermeasures
+  * Dec 2020
+  * Hashim Aljarrash, Will Beal, Nick Colloton, **Siddhartha Edara**
+* Prime Calculator
+  * May 2017
+  * **Siddhartha Edara**
