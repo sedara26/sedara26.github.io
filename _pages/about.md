@@ -10,38 +10,42 @@ redirect_from:
 {% include base_path %}
 
 About
-======
+=====
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
   
 Education
-======
+=====
 * B.S. in Computer Engineering, University of Wisconsin-Madison, 2020
-  * GPA: 3.939 (Transcript)
+  * GPA: 3.939 ([Transcript](https://sedara26.github.io/files/UW_Official_Transcript.pdf)))
   * Relevant Coursework: 
 * M.S. in Computer Science (Online), University of Texas-Austin, 2024 (Expected)
-  * GPA: 3.776 (Transcript)
+  * GPA: 3.776 ([Transcript](https://sedara26.github.io/files/University_of_Texas_Academic_Summary.pdf)))
   * Relevant Coursework: 
 
 Work experience
-======
+=====
 * Feb 2021 - Jun 2022: SOC Design Verification Engineer, Apple
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Collaborated with the design team on attribute design for internal chipsets.
+  * Verified attributes through UVM test benches per chipset and utilized internal software for code and functional coverage.
+  * Initiated and created a flow for automating the initial analysis and categorization of design errors, intended to automate approximately 2-4 hrs of work per engineer every week.
 
 * May 2020 - Aug 2020: SDE Intern, Amazon
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Worked in AFT and helped my team compare metrics between delivery models for efficient delivery systems.
+  * Utilized different AWS Services and created an ECS Service to provide the team a service to visualize comparision metrics.
  
 * May 2019 - Aug 2019: Interim Engineering Intern, Qualcomm
+  * Worked with the Camera Kernel team on updating alerts between services in the kernal codebase.
+  * Worked with Camera Presil Team for creating and simulating camera test cases prior to fabrication.
 
 * May 2018 - Aug 2018: Interim Engineering Intern, Qualcomm
+  * Worked with the Camera Test Team for improving test conditions by writing multiple API’s for controlling serial devices, Phillips Hue Lights, and other internal devices.
+  * Wrote unit tests for a Video Quality Post Processor.
+  * Worked on an Object Classification Model using a fine-tuned vgg16 model.
   
 Skills
-======
+=====
 * Programming Languages:
   * Proficient: Java, C/C++, Verilog, SystemVerilog
   * Familiar: Python, Go, Matlab
@@ -52,5 +56,5 @@ Skills
 * Skill 3
 
 Projects
-======
+=====
 * Programming Languages:
