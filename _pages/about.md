@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV"
+title: "Curriculum vitae (CV)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -57,7 +57,7 @@ Projects
 * An Analysis of Autonomous Vehicle Security Attacks and Effective Countermeasures
   * Hashim Aljarrash, Will Beal, Nick Colloton, **Siddhartha Edara**
   * Dec 2020
-  * [Technical Report](https://sedara26.github.io/files/AVReport.docx)
+  * [Technical Report](https://sedara26.github.io/files/AVReport.pdf)
 * Using Keras to implement an automatic Camera Autofocus feature
   * **Siddhartha Edara**
   * Aug 2018
