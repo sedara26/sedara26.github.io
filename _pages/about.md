@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+About
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  
+Education
+======
+* B.S. in Computer Engineering, University of Wisconsin-Madison, 2020
+  * GPA: 3.939 (Transcript)
+  * Relevant Coursework: 
+* M.S. in Computer Science (Online), University of Texas-Austin, 2024 (Expected)
+  * GPA: 3.776 (Transcript)
+  * Relevant Coursework: 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Feb 2021 - Jun 2022: SOC Design Verification Engineer, Apple
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* May 2020 - Aug 2020: SDE Intern, Amazon
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ 
+* May 2019 - Aug 2019: Interim Engineering Intern, Qualcomm
+
+* May 2018 - Aug 2018: Interim Engineering Intern, Qualcomm
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Programming Languages:
+  * Proficient: Java, C/C++, Verilog, SystemVerilog
+  * Familiar: Python, Go, Matlab
+* Tools
+  * Data Science: Pytorch, Keras, Numpy
+  * Development: Git, ModelSim, Vim, Quartus, IntelliJ
+  * Academic: Zotero
 * Skill 3
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages:
