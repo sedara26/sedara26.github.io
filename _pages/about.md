@@ -51,11 +51,19 @@ Skills
 Projects
 ------
 * Autonomous Image-Based Agent for a Real-time Hockey Game
-  * Dec 2021
   * Andre Duong, **Siddhartha Edara**, Jennifer Hsu, Henry Zhong
+  * Dec 2021
+  * [Technical Report](https://sedara26.github.io/files/Group1FinalProjectReport.pdf)
 * An Analysis of Autonomous Vehicle Security Attacks and Effective Countermeasures
-  * Dec 2020
   * Hashim Aljarrash, Will Beal, Nick Colloton, **Siddhartha Edara**
-* Prime Calculator
-  * May 2017
+  * Dec 2020
+  * [Technical Report](https://sedara26.github.io/files/AVReport.docx)
+* Using Keras to implement an automatic Camera Autofocus feature
   * **Siddhartha Edara**
+  * Aug 2018
+  * [Post](https://medium.com/@sedara/how-the-camera-autofocus-feature-works-in-digital-smartphones-8382d511996c)
+  * [Code](https://github.com/sedara0218/camera_autofocus)
+* Prime Calculator
+  * **Siddhartha Edara**
+  * Dec 2017
+  * [Code](https://github.com/sedara0218/prime_project_java)
