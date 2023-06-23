@@ -61,7 +61,7 @@ Projects
 * Using Keras to implement an automatic Camera Autofocus feature
   * **Siddhartha Edara**
   * Aug 2018
-  * [Post](https://medium.com/@sedara/how-the-camera-autofocus-feature-works-in-digital-smartphones-8382d511996c) & [Code](https://github.com/sedara0218/camera_autofocus)
+  * [Blog Post](https://medium.com/@sedara/how-the-camera-autofocus-feature-works-in-digital-smartphones-8382d511996c) & [Code](https://github.com/sedara0218/camera_autofocus)
 * Prime Calculator
   * **Siddhartha Edara**
   * Dec 2017
