@@ -58,6 +58,10 @@ Projects
   * Hashim Aljarrash, Will Beal, Nick Colloton, **Siddhartha Edara**
   * Dec 2020
   * [Technical Report](https://sedara26.github.io/files/AVReport.pdf)
+* Synthesis of 5 Stage Pipelined CPU with 2-way set associative cache written in Verilog
+  * **Siddhartha Edara**, Omar Kurosu Jalil
+  * May 2019
+  * [Report](https://sedara26.github.io/files/ECE552_FinalReport.pdf)
 * Using Keras to implement an automatic Camera Autofocus feature
   * **Siddhartha Edara**
   * Aug 2018
