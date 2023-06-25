@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
+
+CV PDF Format: [sedara_CV.pdf](https://sedara26.github.io/files/CV_2023.pdf)
+
 Education
 ------
 * **B.S. in Computer Engineering, University of Wisconsin-Madison, 2020**
