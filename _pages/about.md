@@ -27,10 +27,10 @@ Work experience
 
 * **May 2020 - Aug 2020: SDE Intern, Amazon**
   * Worked in AFT and helped my team compare metrics between delivery models for efficient delivery systems.
-  * Utilized different AWS Services and created an ECS Service to provide the team a service to visualize comparision metrics.
+  * Utilized different AWS Services and created an ECS Service to provide the team a service to visualize comparison metrics.
  
 * **May 2019 - Aug 2019: Interim Engineering Intern, Qualcomm**
-  * Worked with the Camera Kernel team on updating alerts between services in the kernal codebase.
+  * Worked with the Camera Kernel team on updating alerts between services in the kernel codebase.
   * Worked with Camera Presil Team for creating and simulating camera test cases prior to fabrication.
 
 * **May 2018 - Aug 2018: Interim Engineering Intern, Qualcomm**
