@@ -13,7 +13,7 @@ Education
 ------
 * B.S. in Computer Engineering, University of Wisconsin-Madison, 2020
   * GPA: 3.939 ([Transcript](https://sedara26.github.io/files/UW_Official_Transcript.pdf))
-  * Relevant Coursework: Operating Systems, Alogrithms & Data Structures, Digital Synthesis & Design, Computer Architecture, Microprocessor Systems, Mobile Computing, Computer Networks, Parallel & Throughput Programming, Probability, CS Education
+  * Relevant Coursework: Operating Systems, Algorithms & Data Structures, Digital Synthesis & Design, Computer Architecture, Microprocessor Systems, Mobile Computing, Computer Networks, Parallel & Throughput Programming, Probability, CS Education
 * M.S. in Computer Science (Online), University of Texas-Austin, 2024 (Expected)
   * GPA: 3.776 ([Transcript](https://sedara26.github.io/files/University_of_Texas_Academic_Summary.pdf))
   * Relevant Coursework: Deep Learning, Parallel Systems, Reinforcement Learning, Advanced Linear Algebra, SIMPL, Automated Logical Reasoning
