@@ -27,7 +27,7 @@ Work experience
   * Verified attributes through UVM test benches per chipset and utilized internal software for code and functional coverage.
   * Initiated and created a flow for automating the initial analysis and categorization of design errors, intended to automate approximately 2-4 hrs of work per engineer every week.
 
-* **May 2020 - Aug 2020: SDE Intern, Amazon**
+* **May 2020 - Aug 2020: Software Development Engineer Intern, Amazon**
   * Worked in AFT and helped my team compare metrics between delivery models for efficient delivery systems.
   * Utilized different AWS Services and created an ECS Service to provide the team a service to visualize comparison metrics.
  
