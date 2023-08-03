@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
+
+CV PDF Format: [sedara_CV.pdf](https://sedara26.github.io/files/CV_2023.pdf)
+
 Education
 ------
 * **B.S. in Computer Engineering, University of Wisconsin-Madison, 2020**
@@ -51,11 +53,11 @@ Skills
 Projects
 ------
 * **Autonomous Image-Based Agent for a Real-time Hockey Game**
-  * Andre Duong, **Siddhartha Edara**, Jennifer Hsu, Henry Zhong
+  * Jennifer Hsu, Henry Zhong, **Siddhartha Edara**, Andre Duong
   * Dec 2021
   * [Technical Report](https://sedara26.github.io/files/Group1FinalProjectReport.pdf)
 * **An Analysis of Autonomous Vehicle Security Attacks and Effective Countermeasures**
-  * Hashim Aljarrash, Will Beal, Nick Colloton, **Siddhartha Edara**
+  * **Siddhartha Edara**, Will Beal, Nick Colloton, Hashim Aljarrash
   * Dec 2020
   * [Technical Report](https://sedara26.github.io/files/AVReport.pdf)
 * **Synthesis of 5 Stage Pipelined CPU with 2-way set associative cache written in Verilog**
